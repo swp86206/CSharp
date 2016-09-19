@@ -1,0 +1,9 @@
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\bin\Debug\test0919_Controls_2.exe.config
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\bin\Debug\test0919_Controls_2.exe
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\bin\Debug\test0919_Controls_2.pdb
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.csprojResolveAssemblyReference.cache
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.Form1.resources
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.Properties.Resources.resources
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.csproj.GenerateResource.Cache
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.exe
+C:\CSharp\test0919_Controls_2\test0919_Controls_2\obj\Debug\test0919_Controls_2.pdb

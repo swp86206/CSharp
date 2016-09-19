@@ -1,0 +1,8 @@
+C:\CSharp\test0919_MyClock\test0919_MyClock\bin\Debug\test0919_MyClock.exe.config
+C:\CSharp\test0919_MyClock\test0919_MyClock\bin\Debug\test0919_MyClock.exe
+C:\CSharp\test0919_MyClock\test0919_MyClock\bin\Debug\test0919_MyClock.pdb
+C:\CSharp\test0919_MyClock\test0919_MyClock\obj\Debug\test0919_MyClock.Form1.resources
+C:\CSharp\test0919_MyClock\test0919_MyClock\obj\Debug\test0919_MyClock.Properties.Resources.resources
+C:\CSharp\test0919_MyClock\test0919_MyClock\obj\Debug\test0919_MyClock.csproj.GenerateResource.Cache
+C:\CSharp\test0919_MyClock\test0919_MyClock\obj\Debug\test0919_MyClock.exe
+C:\CSharp\test0919_MyClock\test0919_MyClock\obj\Debug\test0919_MyClock.pdb

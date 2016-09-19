@@ -1,0 +1,8 @@
+C:\CSharp\My Clock again\My Clock again\bin\Debug\My Clock again.exe.config
+C:\CSharp\My Clock again\My Clock again\bin\Debug\My Clock again.exe
+C:\CSharp\My Clock again\My Clock again\bin\Debug\My Clock again.pdb
+C:\CSharp\My Clock again\My Clock again\obj\Debug\My_Clock_again.Form1.resources
+C:\CSharp\My Clock again\My Clock again\obj\Debug\My_Clock_again.Properties.Resources.resources
+C:\CSharp\My Clock again\My Clock again\obj\Debug\My Clock again.csproj.GenerateResource.Cache
+C:\CSharp\My Clock again\My Clock again\obj\Debug\My Clock again.exe
+C:\CSharp\My Clock again\My Clock again\obj\Debug\My Clock again.pdb
