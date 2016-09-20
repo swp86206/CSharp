@@ -1,0 +1,9 @@
+C:\CSharp_school\0920_datatype\0920_datatype\bin\Debug\0920_datatype.exe.config
+C:\CSharp_school\0920_datatype\0920_datatype\bin\Debug\0920_datatype.exe
+C:\CSharp_school\0920_datatype\0920_datatype\bin\Debug\0920_datatype.pdb
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\_0920_datatype.Form1.resources
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\_0920_datatype.Properties.Resources.resources
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\0920_datatype.csproj.GenerateResource.Cache
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\0920_datatype.exe
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\0920_datatype.pdb
+C:\CSharp_school\0920_datatype\0920_datatype\obj\Debug\0920_datatype.csprojResolveAssemblyReference.cache

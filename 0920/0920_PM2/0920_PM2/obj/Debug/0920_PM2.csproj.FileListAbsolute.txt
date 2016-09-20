@@ -1,0 +1,9 @@
+C:\CSharp_school\0920_PM2\0920_PM2\bin\Debug\0920_PM2.exe.config
+C:\CSharp_school\0920_PM2\0920_PM2\bin\Debug\0920_PM2.exe
+C:\CSharp_school\0920_PM2\0920_PM2\bin\Debug\0920_PM2.pdb
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\0920_PM2.csprojResolveAssemblyReference.cache
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\_0920_PM2.Form1.resources
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\_0920_PM2.Properties.Resources.resources
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\0920_PM2.csproj.GenerateResource.Cache
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\0920_PM2.exe
+C:\CSharp_school\0920_PM2\0920_PM2\obj\Debug\0920_PM2.pdb

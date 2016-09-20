@@ -1,0 +1,9 @@
+C:\CSharp_school\0920_chat_string\0920_chat_string\bin\Debug\0920_chat_string.exe.config
+C:\CSharp_school\0920_chat_string\0920_chat_string\bin\Debug\0920_chat_string.exe
+C:\CSharp_school\0920_chat_string\0920_chat_string\bin\Debug\0920_chat_string.pdb
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\0920_chat_string.csprojResolveAssemblyReference.cache
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\_0920_chat_string.Form1.resources
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\_0920_chat_string.Properties.Resources.resources
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\0920_chat_string.csproj.GenerateResource.Cache
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\0920_chat_string.exe
+C:\CSharp_school\0920_chat_string\0920_chat_string\obj\Debug\0920_chat_string.pdb

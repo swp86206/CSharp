@@ -1,0 +1,5 @@
+C:\CSharp_school\test0920_DLL\test0920_DLL\bin\Debug\test0920_DLL.dll
+C:\CSharp_school\test0920_DLL\test0920_DLL\bin\Debug\test0920_DLL.pdb
+C:\CSharp_school\test0920_DLL\test0920_DLL\obj\Debug\test0920_DLL.csprojResolveAssemblyReference.cache
+C:\CSharp_school\test0920_DLL\test0920_DLL\obj\Debug\test0920_DLL.dll
+C:\CSharp_school\test0920_DLL\test0920_DLL\obj\Debug\test0920_DLL.pdb
