@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="iii-user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 03:19:22 &#19979;&#21320;"/>
+        <attribute name="created" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6MDA6NDAg5LiL5Y2IOyA0Mzg3Mw=="/>
+        <attribute name="edited" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6MTk6MjIg5LiL5Y2IOyA0Mzg4Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="answer" type="Integer" array="False" size="" variables="answer"/>
+            <assign variable="answer" expression="Random(10)"/>
+            <output expression="answer"/>
+            <declare name="value" type="Integer" array="False" size="" variables="value"/>
+            <input variable="value"/>
+            <if expression="value&lt;answer">
+                <then>
+                    <if expression="value&gt;answer">
+                        <then>
+                            <output expression="&quot;&#23567;&#19968;&#40670;&quot;"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;&#25214;&#21040;!&quot;"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;&#22823;&#19968;&#40670;&quot;"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

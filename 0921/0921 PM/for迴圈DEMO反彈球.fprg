@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="iii-user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 03:46:44 &#19979;&#21320;"/>
+        <attribute name="created" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6MzE6Mjcg5LiL5Y2IOyA0Mzg4Mg=="/>
+        <attribute name="edited" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6NDY6NDQg5LiL5Y2IOyA0Mzg4Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="height" type="Real" array="False" size="" variables="height"/>
+            <assign variable="height" expression="100"/>
+            <declare name="brouce" type="Integer" array="False" size="" variables="brouce"/>
+            <for variable="brouce" start="1" end="5" direction="inc" step="1">
+                <assign variable="height" expression="height/2"/>
+            </for>
+            <output expression="height"/>
+        </body>
+    </function>
+</flowgorithm>

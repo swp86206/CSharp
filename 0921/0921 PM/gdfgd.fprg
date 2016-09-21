@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="iii-user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 02:04:23 &#19979;&#21320;"/>
+        <attribute name="created" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDE6MzQ6NTUg5LiL5Y2IOyA0Mzg4NA=="/>
+        <attribute name="edited" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDI6MDQ6MjMg5LiL5Y2IOyA0Mzg3Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;&#35531;&#36664;&#20837;&quot;"/>
+            <declare name="Name" type="String" array="False" size="" variables="Name"/>
+            <input variable="Name"/>
+            <output expression="&quot;QQ !&#12288;&#12288;&quot; &amp; Name"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="iii-user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 02:42:50 &#19979;&#21320;"/>
+        <attribute name="created" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDI6MDQ6Mjcg5LiL5Y2IOyA0Mzg4MQ=="/>
+        <attribute name="edited" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDI6NDI6NTAg5LiL5Y2IOyA0Mzg3OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;&#35531;&#21839;&#20320;&#24190;&#27506;?&quot;"/>
+            <declare name="age" type="Integer" array="False" size="" variables="age"/>
+            <do expression="age &lt;=0 || age&gt;100">
+                <input variable="age"/>
+                <output expression="&quot;&#35531;&#21839;&#20320;&#36664;&#20837;&#23565;&#21966;!?&quot;"/>
+            </do>
+            <if expression="age &gt;=20">
+                <then>
+                    <output expression="&quot; &#20320;&#30340;&#24180;&#32000;&#26159; &quot; &amp; age &amp; &quot;&#21487;&#20197;&#25237;&#31080;&quot;"/>
+                </then>
+                <else>
+                    <output expression="&quot; &#20320;&#30340;&#24180;&#32000;&#26159; &quot; &amp; age &amp; &quot;&#19981;&#33021;&#25237;&#31080;&quot;"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

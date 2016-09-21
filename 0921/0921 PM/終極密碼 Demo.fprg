@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="iii-user"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 03:31:21 &#19979;&#21320;"/>
+        <attribute name="created" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6MDA6NDAg5LiL5Y2IOyA0Mzg3Mw=="/>
+        <attribute name="edited" value="aWlpLXVzZXI7IElJSS1QQzAwMTsgMjAxNi0wOS0yMTsgMDM6MzE6MjEg5LiL5Y2IOyA0Mzg3Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="answer" type="Integer" array="False" size="" variables="answer"/>
+            <assign variable="answer" expression="Random(10)"/>
+            <declare name="userKeyin" type="Integer" array="False" size="" variables="userKeyin"/>
+            <do expression="userKeyin != answer">
+                <output expression="&quot;Please key in a number&quot;"/>
+                <input variable="userKeyin"/>
+                <if expression="userKeyin&lt;answer">
+                    <then>
+                        <output expression="&quot;&#22823;&#19968;&#40670;&quot;"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="userKeyin&gt;answer">
+                    <then>
+                        <output expression="&quot;&#23567;&#19968;&#40670;&quot;"/>
+                    </then>
+                    <else/>
+                </if>
+            </do>
+            <output expression="&quot;&#25214;&#21040;&#20102;&quot;"/>
+        </body>
+    </function>
+</flowgorithm>
