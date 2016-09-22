@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user01"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 02:04:05 &#19979;&#21320;"/>
+        <attribute name="created" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDE6NDY6NDMg5LiL5Y2IOyA0MzUyMw=="/>
+        <attribute name="edited" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDI6MDQ6MDUg5LiL5Y2IOyA0MzUxNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Please keyin your name: &quot;"/>
+            <declare name="userName" type="String" array="False" size="" variables="userName"/>
+            <input variable="userName"/>
+            <output expression="&quot;Hello! &quot; &amp; userName"/>
+        </body>
+    </function>
+</flowgorithm>

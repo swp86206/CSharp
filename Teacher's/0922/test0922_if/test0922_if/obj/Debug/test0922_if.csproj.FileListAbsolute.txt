@@ -1,0 +1,9 @@
+C:\CSharp\test0922_if\test0922_if\bin\Debug\test0922_if.exe.config
+C:\CSharp\test0922_if\test0922_if\bin\Debug\test0922_if.exe
+C:\CSharp\test0922_if\test0922_if\bin\Debug\test0922_if.pdb
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.Form1.resources
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.Properties.Resources.resources
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.csproj.GenerateResource.Cache
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.exe
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.pdb
+C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.csprojResolveAssemblyReference.cache

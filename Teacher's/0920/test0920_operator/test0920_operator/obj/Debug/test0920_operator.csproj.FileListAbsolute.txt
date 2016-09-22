@@ -1,0 +1,8 @@
+C:\CSharp\test0920_operator\test0920_operator\bin\Debug\test0920_operator.exe.config
+C:\CSharp\test0920_operator\test0920_operator\bin\Debug\test0920_operator.exe
+C:\CSharp\test0920_operator\test0920_operator\bin\Debug\test0920_operator.pdb
+C:\CSharp\test0920_operator\test0920_operator\obj\Debug\test0920_operator.Form1.resources
+C:\CSharp\test0920_operator\test0920_operator\obj\Debug\test0920_operator.Properties.Resources.resources
+C:\CSharp\test0920_operator\test0920_operator\obj\Debug\test0920_operator.csproj.GenerateResource.Cache
+C:\CSharp\test0920_operator\test0920_operator\obj\Debug\test0920_operator.exe
+C:\CSharp\test0920_operator\test0920_operator\obj\Debug\test0920_operator.pdb

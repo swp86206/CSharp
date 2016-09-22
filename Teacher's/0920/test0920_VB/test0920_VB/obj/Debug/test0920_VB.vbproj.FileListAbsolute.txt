@@ -1,0 +1,10 @@
+C:\CSharp\test0920_VB\test0920_VB\bin\Debug\test0920_VB.exe.config
+C:\CSharp\test0920_VB\test0920_VB\bin\Debug\test0920_VB.exe
+C:\CSharp\test0920_VB\test0920_VB\bin\Debug\test0920_VB.pdb
+C:\CSharp\test0920_VB\test0920_VB\bin\Debug\test0920_VB.xml
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.Form1.resources
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.Resources.resources
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.vbproj.GenerateResource.Cache
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.exe
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.xml
+C:\CSharp\test0920_VB\test0920_VB\obj\Debug\test0920_VB.pdb

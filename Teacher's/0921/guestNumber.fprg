@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user01"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 03:26:16 &#19979;&#21320;"/>
+        <attribute name="created" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDM6MDI6MDQg5LiL5Y2IOyA0MzUxNA=="/>
+        <attribute name="edited" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDM6MjY6MTYg5LiL5Y2IOyA0MzUyMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="answer" type="Integer" array="False" size="" variables="answer"/>
+            <assign variable="answer" expression="Random(10)"/>
+            <declare name="userKeyin" type="Integer" array="False" size="" variables="userKeyin"/>
+            <do expression="userKeyin != answer">
+                <output expression="&quot;Please keyin a number:&quot;"/>
+                <input variable="userKeyin"/>
+                <if expression="userKeyin &gt; answer">
+                    <then>
+                        <output expression="&quot;Lower will be better&quot;"/>
+                    </then>
+                    <else>
+                        <if expression="userKeyin &lt; answer">
+                            <then>
+                                <output expression="&quot;Higher&quot;"/>
+                            </then>
+                            <else>
+                                <output expression="&quot;Correct&quot;"/>
+                            </else>
+                        </if>
+                    </else>
+                </if>
+            </do>
+        </body>
+    </function>
+</flowgorithm>

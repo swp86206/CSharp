@@ -1,0 +1,8 @@
+C:\CSharp\test0920_DataType\test0920_DataType\bin\Debug\test0920_DataType.exe.config
+C:\CSharp\test0920_DataType\test0920_DataType\bin\Debug\test0920_DataType.exe
+C:\CSharp\test0920_DataType\test0920_DataType\bin\Debug\test0920_DataType.pdb
+C:\CSharp\test0920_DataType\test0920_DataType\obj\Debug\test0920_DataType.Form1.resources
+C:\CSharp\test0920_DataType\test0920_DataType\obj\Debug\test0920_DataType.Properties.Resources.resources
+C:\CSharp\test0920_DataType\test0920_DataType\obj\Debug\test0920_DataType.csproj.GenerateResource.Cache
+C:\CSharp\test0920_DataType\test0920_DataType\obj\Debug\test0920_DataType.exe
+C:\CSharp\test0920_DataType\test0920_DataType\obj\Debug\test0920_DataType.pdb

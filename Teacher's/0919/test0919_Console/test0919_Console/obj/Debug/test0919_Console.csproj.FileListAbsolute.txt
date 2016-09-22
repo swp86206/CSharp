@@ -1,0 +1,5 @@
+C:\CSharp\test0919_Console\test0919_Console\bin\Debug\test0919_Console.exe.config
+C:\CSharp\test0919_Console\test0919_Console\bin\Debug\test0919_Console.exe
+C:\CSharp\test0919_Console\test0919_Console\bin\Debug\test0919_Console.pdb
+C:\CSharp\test0919_Console\test0919_Console\obj\Debug\test0919_Console.exe
+C:\CSharp\test0919_Console\test0919_Console\obj\Debug\test0919_Console.pdb

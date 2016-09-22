@@ -1,0 +1,8 @@
+C:\CSharp\test0922_loop\test0922_loop\bin\Debug\test0922_loop.exe.config
+C:\CSharp\test0922_loop\test0922_loop\bin\Debug\test0922_loop.exe
+C:\CSharp\test0922_loop\test0922_loop\bin\Debug\test0922_loop.pdb
+C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.Form1.resources
+C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.Properties.Resources.resources
+C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.csproj.GenerateResource.Cache
+C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.exe
+C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.pdb

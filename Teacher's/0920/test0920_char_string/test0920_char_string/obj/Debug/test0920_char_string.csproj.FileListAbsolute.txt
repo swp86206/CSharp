@@ -1,0 +1,8 @@
+C:\CSharp\test0920_char_string\test0920_char_string\bin\Debug\test0920_char_string.exe.config
+C:\CSharp\test0920_char_string\test0920_char_string\bin\Debug\test0920_char_string.exe
+C:\CSharp\test0920_char_string\test0920_char_string\bin\Debug\test0920_char_string.pdb
+C:\CSharp\test0920_char_string\test0920_char_string\obj\Debug\test0920_char_string.Form1.resources
+C:\CSharp\test0920_char_string\test0920_char_string\obj\Debug\test0920_char_string.Properties.Resources.resources
+C:\CSharp\test0920_char_string\test0920_char_string\obj\Debug\test0920_char_string.csproj.GenerateResource.Cache
+C:\CSharp\test0920_char_string\test0920_char_string\obj\Debug\test0920_char_string.exe
+C:\CSharp\test0920_char_string\test0920_char_string\obj\Debug\test0920_char_string.pdb

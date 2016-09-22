@@ -1,0 +1,8 @@
+C:\CSharp\MyClock\MyClock\bin\Debug\MyClock.exe.config
+C:\CSharp\MyClock\MyClock\bin\Debug\MyClock.exe
+C:\CSharp\MyClock\MyClock\bin\Debug\MyClock.pdb
+C:\CSharp\MyClock\MyClock\obj\Debug\MyClock.MainForm.resources
+C:\CSharp\MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+C:\CSharp\MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.Cache
+C:\CSharp\MyClock\MyClock\obj\Debug\MyClock.exe
+C:\CSharp\MyClock\MyClock\obj\Debug\MyClock.pdb

@@ -1,0 +1,6 @@
+C:\CSharp\test0920_console\test0920_console\bin\Debug\test0920_console.exe.config
+C:\CSharp\test0920_console\test0920_console\bin\Debug\test0920_console.exe
+C:\CSharp\test0920_console\test0920_console\bin\Debug\test0920_console.pdb
+C:\CSharp\test0920_console\test0920_console\obj\Debug\test0920_console.csprojResolveAssemblyReference.cache
+C:\CSharp\test0920_console\test0920_console\obj\Debug\test0920_console.exe
+C:\CSharp\test0920_console\test0920_console\obj\Debug\test0920_console.pdb

@@ -1,0 +1,8 @@
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\bin\Debug\test0920_constr_enum.exe.config
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\bin\Debug\test0920_constr_enum.exe
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\bin\Debug\test0920_constr_enum.pdb
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\obj\Debug\test0920_constr_enum.Form1.resources
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\obj\Debug\test0920_constr_enum.Properties.Resources.resources
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\obj\Debug\test0920_constr_enum.csproj.GenerateResource.Cache
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\obj\Debug\test0920_constr_enum.exe
+C:\CSharp\test0920_constr_enum\test0920_constr_enum\obj\Debug\test0920_constr_enum.pdb

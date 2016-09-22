@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user01"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 02:51:12 &#19979;&#21320;"/>
+        <attribute name="created" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDI6NDU6MjQg5LiL5Y2IOyA0MzUyMg=="/>
+        <attribute name="edited" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDI6NTE6MTIg5LiL5Y2IOyA0MzUxNg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i" type="Integer" array="False" size="" variables="i"/>
+            <assign variable="i" expression="1"/>
+            <while expression="i &lt;= 3">
+                <output expression="i"/>
+                <assign variable="i" expression="i + 1"/>
+            </while>
+            <output expression="&quot;End&quot;"/>
+        </body>
+    </function>
+</flowgorithm>

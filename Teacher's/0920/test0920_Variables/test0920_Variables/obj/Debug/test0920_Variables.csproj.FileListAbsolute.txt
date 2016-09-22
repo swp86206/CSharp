@@ -1,0 +1,9 @@
+C:\CSharp\test0920_Variables\test0920_Variables\bin\Debug\test0920_Variables.exe.config
+C:\CSharp\test0920_Variables\test0920_Variables\bin\Debug\test0920_Variables.exe
+C:\CSharp\test0920_Variables\test0920_Variables\bin\Debug\test0920_Variables.pdb
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.csprojResolveAssemblyReference.cache
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.Form1.resources
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.Properties.Resources.resources
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.csproj.GenerateResource.Cache
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.exe
+C:\CSharp\test0920_Variables\test0920_Variables\obj\Debug\test0920_Variables.pdb

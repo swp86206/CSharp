@@ -1,0 +1,11 @@
+C:\CSharp\test0920_EXE\test0920_EXE\bin\Debug\test0920_EXE.exe.config
+C:\CSharp\test0920_EXE\test0920_EXE\bin\Debug\test0920_EXE.exe
+C:\CSharp\test0920_EXE\test0920_EXE\bin\Debug\test0920_EXE.pdb
+C:\CSharp\test0920_EXE\test0920_EXE\bin\Debug\test0920_DLL.dll
+C:\CSharp\test0920_EXE\test0920_EXE\bin\Debug\test0920_DLL.pdb
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.csprojResolveAssemblyReference.cache
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.Form1.resources
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.Properties.Resources.resources
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.csproj.GenerateResource.Cache
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.exe
+C:\CSharp\test0920_EXE\test0920_EXE\obj\Debug\test0920_EXE.pdb

@@ -1,0 +1,9 @@
+C:\CSharp\test0920_Format\test0920_Format\bin\Debug\test0920_Format.exe.config
+C:\CSharp\test0920_Format\test0920_Format\bin\Debug\test0920_Format.exe
+C:\CSharp\test0920_Format\test0920_Format\bin\Debug\test0920_Format.pdb
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.csprojResolveAssemblyReference.cache
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.Form1.resources
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.Properties.Resources.resources
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.csproj.GenerateResource.Cache
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.exe
+C:\CSharp\test0920_Format\test0920_Format\obj\Debug\test0920_Format.pdb

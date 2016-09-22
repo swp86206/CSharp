@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="user01"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2016-09-21 02:31:29 &#19979;&#21320;"/>
+        <attribute name="created" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDI6MDg6NTYg5LiL5Y2IOyA0MzUyNg=="/>
+        <attribute name="edited" value="dXNlcjAxOyBBSU8tMjEwMTsgMjAxNi0wOS0yMTsgMDI6MzE6Mjkg5LiL5Y2IOyA0MzUyMg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="age" type="Integer" array="False" size="" variables="age"/>
+            <do expression="age &lt;= 0 || age &gt; 100">
+                <output expression="&quot;Please keyin your age:&quot;"/>
+                <input variable="age"/>
+            </do>
+            <if expression="age &gt;= 20">
+                <then>
+                    <output expression="&quot;Vote&quot;"/>
+                </then>
+                <else>
+                    <output expression="&quot;Can't vote&quot;"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

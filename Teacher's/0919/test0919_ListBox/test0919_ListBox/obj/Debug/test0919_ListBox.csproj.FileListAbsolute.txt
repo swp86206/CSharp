@@ -1,0 +1,8 @@
+C:\CSharp\test0919_ListBox\test0919_ListBox\bin\Debug\test0919_ListBox.exe.config
+C:\CSharp\test0919_ListBox\test0919_ListBox\bin\Debug\test0919_ListBox.exe
+C:\CSharp\test0919_ListBox\test0919_ListBox\bin\Debug\test0919_ListBox.pdb
+C:\CSharp\test0919_ListBox\test0919_ListBox\obj\Debug\test0919_ListBox.MainForm.resources
+C:\CSharp\test0919_ListBox\test0919_ListBox\obj\Debug\test0919_ListBox.Properties.Resources.resources
+C:\CSharp\test0919_ListBox\test0919_ListBox\obj\Debug\test0919_ListBox.csproj.GenerateResource.Cache
+C:\CSharp\test0919_ListBox\test0919_ListBox\obj\Debug\test0919_ListBox.exe
+C:\CSharp\test0919_ListBox\test0919_ListBox\obj\Debug\test0919_ListBox.pdb
