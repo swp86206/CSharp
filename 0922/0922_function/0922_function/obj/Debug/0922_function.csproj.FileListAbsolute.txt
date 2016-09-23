@@ -1,0 +1,9 @@
+C:\CSharp_school\0922_function\0922_function\bin\Debug\0922_function.exe.config
+C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.csprojResolveAssemblyReference.cache
+C:\CSharp_school\0922_function\0922_function\obj\Debug\_0922_function.Form1.resources
+C:\CSharp_school\0922_function\0922_function\obj\Debug\_0922_function.Properties.Resources.resources
+C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.csproj.GenerateResource.Cache
+C:\CSharp_school\0922_function\0922_function\bin\Debug\0922_function.exe
+C:\CSharp_school\0922_function\0922_function\bin\Debug\0922_function.pdb
+C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.exe
+C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.pdb

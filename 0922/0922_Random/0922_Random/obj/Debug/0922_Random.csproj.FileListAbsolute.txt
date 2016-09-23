@@ -1,0 +1,9 @@
+C:\CSharp_school\0922_Random\0922_Random\bin\Debug\0922_Random.exe.config
+C:\CSharp_school\0922_Random\0922_Random\bin\Debug\0922_Random.exe
+C:\CSharp_school\0922_Random\0922_Random\bin\Debug\0922_Random.pdb
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\0922_Random.csprojResolveAssemblyReference.cache
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\_0922_Random.Form1.resources
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\_0922_Random.Properties.Resources.resources
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\0922_Random.csproj.GenerateResource.Cache
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\0922_Random.exe
+C:\CSharp_school\0922_Random\0922_Random\obj\Debug\0922_Random.pdb

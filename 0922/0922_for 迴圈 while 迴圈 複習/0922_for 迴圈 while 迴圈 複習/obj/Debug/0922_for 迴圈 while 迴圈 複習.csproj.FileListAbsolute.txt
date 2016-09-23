@@ -1,0 +1,9 @@
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\bin\Debug\0922_for 迴圈 while 迴圈 複習.exe.config
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\bin\Debug\0922_for 迴圈 while 迴圈 複習.exe
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\bin\Debug\0922_for 迴圈 while 迴圈 複習.pdb
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\0922_for 迴圈 while 迴圈 複習.csprojResolveAssemblyReference.cache
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\_0922_for_迴圈_while_迴圈_複習.Form1.resources
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\_0922_for_迴圈_while_迴圈_複習.Properties.Resources.resources
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\0922_for 迴圈 while 迴圈 複習.csproj.GenerateResource.Cache
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\0922_for 迴圈 while 迴圈 複習.exe
+C:\CSharp_school\0922_for 迴圈 while 迴圈 複習\0922_for 迴圈 while 迴圈 複習\obj\Debug\0922_for 迴圈 while 迴圈 複習.pdb
