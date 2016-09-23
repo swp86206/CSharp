@@ -1,0 +1,9 @@
+C:\CSharp\test0923_Array\test0923_Array\bin\Debug\test0923_Array.exe.config
+C:\CSharp\test0923_Array\test0923_Array\bin\Debug\test0923_Array.exe
+C:\CSharp\test0923_Array\test0923_Array\bin\Debug\test0923_Array.pdb
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.csprojResolveAssemblyReference.cache
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.Form1.resources
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.Properties.Resources.resources
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.csproj.GenerateResource.Cache
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.exe
+C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.pdb
