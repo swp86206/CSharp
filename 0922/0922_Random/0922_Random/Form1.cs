@@ -17,21 +17,27 @@ namespace _0922_Random
             InitializeComponent();
         }
 
-        
+        int answer = -1;  //兩個在共用,所以宣告在外面
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            init(); //準備好時,呼叫這個副程式
+        }
         //A
-        int answer =-1 ;  //兩個在共用,所以宣告在外面
+        
 
         void init()
         {
-            settingAnswer();
-            listBox1.Items.Clear();
+            settingAnswer(); //設定初始化
+            listBox1.Items.Clear(); //清空
         }
 
         void settingAnswer() //副程式function
         {
             Random obj = new Random();
-            int answer = obj.Next(0, 10);
-            listBox1.Items.Add(answer);
+            answer = obj.Next(0, 10); //代表0~9的隨機數字
+            this.Text = answer.ToString(); //顯示在表單上方
+            //listBox1.Items.Add(answer);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -47,14 +53,14 @@ namespace _0922_Random
             }
             else
             {
-                if (useKeyin > answer)
+                if (useKeyin < answer)
                 {
-                    listBox1.Items.Add("Higer please");
+                    listBox1.Items.Add("Highter please");
                 }
                 else
                 {
                     listBox1.Items.Add("Correct");
-                    settingAnswer();
+                   settingAnswer(); //重新設定答案
                 }
             }
             
@@ -68,14 +74,14 @@ namespace _0922_Random
             {
                 listBox1.Items.Add("Lower will be better");
             }
-            else if (useKeyin > answer)
+            else if (useKeyin < answer)
                 {
                     listBox1.Items.Add("Higer please");
                 }
                 else
                 {
                     listBox1.Items.Add("Correct");
-                    settingAnswer();
+                   // settingAnswer();
                 }
            
         }
@@ -87,7 +93,7 @@ namespace _0922_Random
             {
                 listBox1.Items.Add("Lower will be better");
             }
-            if (useKeyin > answer)
+            if (useKeyin < answer)
             {
                 listBox1.Items.Add("Higer please");
             }
@@ -102,8 +108,10 @@ namespace _0922_Random
         {
             settingAnswer();
         }
-        private void settingAnswer() {
+        //private void settingAnswer() {
 
-        }
+        //}
+
+       
     }
 }

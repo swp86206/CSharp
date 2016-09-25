@@ -7,3 +7,6 @@ C:\CSharp_school\0922_function\0922_function\bin\Debug\0922_function.exe
 C:\CSharp_school\0922_function\0922_function\bin\Debug\0922_function.pdb
 C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.exe
 C:\CSharp_school\0922_function\0922_function\obj\Debug\0922_function.pdb
+C:\CSharp\0922\0922_function\0922_function\bin\Debug\0922_function.exe.config
+C:\CSharp\0922\0922_function\0922_function\obj\Debug\0922_function.exe
+C:\CSharp\0922\0922_function\0922_function\obj\Debug\0922_function.pdb

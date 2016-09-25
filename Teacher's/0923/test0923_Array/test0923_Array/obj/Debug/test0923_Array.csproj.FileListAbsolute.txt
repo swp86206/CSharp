@@ -7,3 +7,6 @@ C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.Properties.Reso
 C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.csproj.GenerateResource.Cache
 C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.exe
 C:\CSharp\test0923_Array\test0923_Array\obj\Debug\test0923_Array.pdb
+C:\CSharp\Teacher's\0923\test0923_Array\test0923_Array\bin\Debug\test0923_Array.exe.config
+C:\CSharp\Teacher's\0923\test0923_Array\test0923_Array\obj\Debug\test0923_Array.exe
+C:\CSharp\Teacher's\0923\test0923_Array\test0923_Array\obj\Debug\test0923_Array.pdb

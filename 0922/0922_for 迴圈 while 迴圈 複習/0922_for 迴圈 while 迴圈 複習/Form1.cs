@@ -68,11 +68,12 @@ namespace _0922_for_迴圈_while_迴圈_複習
             {
                 if (i == 4)
                 {
-                    break; // jump to x
+                    break; // jump to X
                 }
                 listBox1.Items.Add(i);
                 i++;
             }
+            //X
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -82,11 +83,11 @@ namespace _0922_for_迴圈_while_迴圈_複習
             {
                 if (i == 4)
                 {
-                    continue; // 還是跑一遍，4跳過
+                    continue; // 還是跑一遍，4跳過  jump to x
                 }
                 listBox1.Items.Add(i);
                 i++;
-            }
+            } //x
         }
     }
 }

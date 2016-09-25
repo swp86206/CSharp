@@ -6,3 +6,12 @@ C:\CSharp\test0922_Function\test0922_Function\obj\Debug\test0922_Function.Proper
 C:\CSharp\test0922_Function\test0922_Function\obj\Debug\test0922_Function.csproj.GenerateResource.Cache
 C:\CSharp\test0922_Function\test0922_Function\obj\Debug\test0922_Function.exe
 C:\CSharp\test0922_Function\test0922_Function\obj\Debug\test0922_Function.pdb
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\bin\Debug\test0922_Function.exe.config
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.exe
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.pdb
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\bin\Debug\test0922_Function.exe
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\bin\Debug\test0922_Function.pdb
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.csprojResolveAssemblyReference.cache
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.Form1.resources
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.Properties.Resources.resources
+C:\CSharp\Teacher's\0922\test0922_Function\test0922_Function\obj\Debug\test0922_Function.csproj.GenerateResource.Cache

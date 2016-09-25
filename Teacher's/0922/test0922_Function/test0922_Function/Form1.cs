@@ -17,21 +17,33 @@ namespace test0922_Function
             InitializeComponent();
         }
 
-        void showStar()
+        void showStar()  //另建沒有任何參數的版本
         {
-            showStar(5, "*");
+            showStar(5, "*"); //此版本固定傳5這個參數進去
         }
 
         void showStar(int count)
         {
-            showStar(count, "*");
+            //string result = "";
+            //for (int i = 1; i <= count; i++)
+            //{
+            //    result += "*";
+            //}
+            //MessageBox.Show(result);
+            showStar(count, "*");////同樣的程式碼不建議重複寫，用轉介方式故呼叫較完整的版本
         }
 
         void showStar(string what)
         {
-            showStar(5, what);
+            //string result = "";
+            //for (int i = 1; i <= 5; i++)
+            //{
+            //    result += what;
+            //}
+            //MessageBox.Show(result);
+            showStar(5, what);  //同樣的程式碼不建議重複寫，用轉介方式故呼叫較完整的版本
         }
-        void showStar(int count, string what)
+        void showStar(int count, string what) //兩個以上參數用逗號分隔開
         {
             string result = "";
             for (int i = 1; i <= count; i++)
@@ -54,8 +66,11 @@ namespace test0922_Function
 
         private void button3_Click(object sender, EventArgs e)
         {
-            showStar(2, "^");
+            showStar(2, "^"); //也可以自己另外做第四個版本(字串在前,數字在後)
+            //showStar();會有四個版本可以選擇
+
         }
+        
 
         void test(ref int data)  // reference
         {
@@ -65,11 +80,12 @@ namespace test0922_Function
         private void button4_Click(object sender, EventArgs e)
         {
             int x = 3;
-            test(ref x);
+            test(ref x); //把x 在哪哩，找出來
             button4.Text = x.ToString();
         }
 
-        void Swap(ref int x, ref int y)  // in/out
+        void Swap(ref int x, ref int y)  // ref既當作輸入也當作輸出,視為in/out的參數
+            //想改參數值，寫程式的要加ref，呼叫的也要加ref
         {
             int temp = x;
             x = y;
@@ -90,7 +106,7 @@ namespace test0922_Function
             //int result = x;
             //if (x < y)
             //    result = y;
-            int result = (x > y) ? x : y;
+            int result = (x > y) ? x : y; //x有大於y嗎? 有就x,沒有就y
             return result;
         }
 
@@ -108,7 +124,7 @@ namespace test0922_Function
         {
             int result = 0;
             int userKeyinNumber = -1;
-            if (int.TryParse(s, out userKeyinNumber))
+            if (int.TryParse(s, out userKeyinNumber)) //out 專門丟資料出來，要用一個變數去接，所以後面不能是數字
                 result = userKeyinNumber;
             return result;
         }
@@ -128,8 +144,8 @@ namespace test0922_Function
         private void button8_Click(object sender, EventArgs e)
         {
             int x = 6;
-            // if (x > 100 && foo() )  // &&   且
-            if (x > 100 & foo())       // &    data1 & data2   位元運算
+            // if (x > 100 && foo() )  // &&   且　第一條件符合，才會再進一步
+            if (x > 100 & foo())       // &    data1 & data2   因要做位元運算，所以兩份資料都到齊
             {
                 button8.Text = "Yes";
             }

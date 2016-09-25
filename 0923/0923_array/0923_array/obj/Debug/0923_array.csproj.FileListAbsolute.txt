@@ -7,3 +7,12 @@ C:\CSharp_school\0923_array\0923_array\obj\Debug\_0923_array.Properties.Resource
 C:\CSharp_school\0923_array\0923_array\obj\Debug\0923_array.csproj.GenerateResource.Cache
 C:\CSharp_school\0923_array\0923_array\obj\Debug\0923_array.exe
 C:\CSharp_school\0923_array\0923_array\obj\Debug\0923_array.pdb
+C:\CSharp\0923\0923_array\0923_array\bin\Debug\0923_array.exe.config
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\0923_array.exe
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\0923_array.pdb
+C:\CSharp\0923\0923_array\0923_array\bin\Debug\0923_array.exe
+C:\CSharp\0923\0923_array\0923_array\bin\Debug\0923_array.pdb
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\0923_array.csprojResolveAssemblyReference.cache
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\_0923_array.Form1.resources
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\_0923_array.Properties.Resources.resources
+C:\CSharp\0923\0923_array\0923_array\obj\Debug\0923_array.csproj.GenerateResource.Cache

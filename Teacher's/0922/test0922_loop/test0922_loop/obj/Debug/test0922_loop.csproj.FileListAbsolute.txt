@@ -6,3 +6,6 @@ C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.Properties.Resourc
 C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.csproj.GenerateResource.Cache
 C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.exe
 C:\CSharp\test0922_loop\test0922_loop\obj\Debug\test0922_loop.pdb
+C:\CSharp\Teacher's\0922\test0922_loop\test0922_loop\bin\Debug\test0922_loop.exe.config
+C:\CSharp\Teacher's\0922\test0922_loop\test0922_loop\obj\Debug\test0922_loop.exe
+C:\CSharp\Teacher's\0922\test0922_loop\test0922_loop\obj\Debug\test0922_loop.pdb

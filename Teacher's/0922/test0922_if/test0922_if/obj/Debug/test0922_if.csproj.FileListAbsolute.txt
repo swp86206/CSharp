@@ -7,3 +7,12 @@ C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.csproj.GenerateResource.
 C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.exe
 C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.pdb
 C:\CSharp\test0922_if\test0922_if\obj\Debug\test0922_if.csprojResolveAssemblyReference.cache
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\bin\Debug\test0922_if.exe.config
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.exe
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.pdb
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\bin\Debug\test0922_if.exe
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\bin\Debug\test0922_if.pdb
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.csprojResolveAssemblyReference.cache
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.Form1.resources
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.Properties.Resources.resources
+C:\CSharp\Teacher's\0922\test0922_if\test0922_if\obj\Debug\test0922_if.csproj.GenerateResource.Cache
