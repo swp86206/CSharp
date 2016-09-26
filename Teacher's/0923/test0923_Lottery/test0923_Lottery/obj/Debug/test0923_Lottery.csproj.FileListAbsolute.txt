@@ -7,3 +7,12 @@ C:\CSharp\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.Propertie
 C:\CSharp\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.csproj.GenerateResource.Cache
 C:\CSharp\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.exe
 C:\CSharp\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.pdb
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\bin\Debug\test0923_Lottery.exe.config
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.exe
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.pdb
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.csprojResolveAssemblyReference.cache
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.Form1.resources
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.Properties.Resources.resources
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\obj\Debug\test0923_Lottery.csproj.GenerateResource.Cache
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\bin\Debug\test0923_Lottery.exe
+C:\CSharp\Teacher's\0923\test0923_Lottery\test0923_Lottery\bin\Debug\test0923_Lottery.pdb

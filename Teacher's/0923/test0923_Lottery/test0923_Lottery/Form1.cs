@@ -161,7 +161,7 @@ namespace test0923_Lottery
             listBox1.Items.Clear();
             for (int i = 0; i < 6; i++)
             {
-                string number = string.Format("{0:d2}", luckyNumbers[i]);
+                string number = string.Format("{0:d2}", pool[i]); //原LuckyNumbers[i]
                 listBox1.Items.Add(number);
             }
         }

@@ -73,11 +73,11 @@ namespace _0926_Object
         {
             for (int i=1; 1<=9; i++)
             {
-                try
-                {
+                //try
+                //{
                     test(i);
-                }
-                catch { }
+               // }
+                //catch { }
             }
         }
 
@@ -86,18 +86,18 @@ namespace _0926_Object
 
         void test(int value)
         {
-            try
-            {
-                if (value == 4)
-                {
-                    throw new Exception("Error!!!");
-                }
+            //try
+           // {
+               // if (value == 4)
+              //  {
+                    //throw new Exception("Error!!!");
+              //  }
                 listBox1.Items.Add(value);
-            }
-            catch(Exception ex)
-            {
-                listBox1.Items.Add(ex.Message);
-            }
+            //}
+            //catch(Exception ex)
+           // {
+                //listBox1.Items.Add(ex.Message);
+            //}
        }
            
         private void button6_Click(object sender, EventArgs e)
@@ -131,6 +131,11 @@ namespace _0926_Object
             {
                 this.Text = ex.Message;
             }
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+
         }
     }
     //----------- end of Form1  -------------

@@ -7,3 +7,12 @@ C:\CSharp_school\0923_Lotto\0923_Lotto\obj\Debug\_0923_Lotto.Properties.Resource
 C:\CSharp_school\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.csproj.GenerateResource.Cache
 C:\CSharp_school\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.exe
 C:\CSharp_school\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.pdb
+C:\CSharp\0923\0923_Lotto\0923_Lotto\bin\Debug\0923_Lotto.exe.config
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.exe
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.pdb
+C:\CSharp\0923\0923_Lotto\0923_Lotto\bin\Debug\0923_Lotto.exe
+C:\CSharp\0923\0923_Lotto\0923_Lotto\bin\Debug\0923_Lotto.pdb
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.csprojResolveAssemblyReference.cache
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\_0923_Lotto.Form1.resources
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\_0923_Lotto.Properties.Resources.resources
+C:\CSharp\0923\0923_Lotto\0923_Lotto\obj\Debug\0923_Lotto.csproj.GenerateResource.Cache
