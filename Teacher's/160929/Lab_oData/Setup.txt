@@ -1,0 +1,96 @@
+﻿Lab: oData 之查詢與新增資料
+
+
+
+
+01.	從 Windows 系統開始功能表，搜尋「sqlLocalDb」
+
+
+02.	執行上述步驟找到的那支程式
+
+
+03.	啟動 Visual Studio 2015
+
+
+04.	Visual Studio 功能表 | 檢視 | 伺服器總管
+
+
+05.	滑鼠右鍵伺服器總管的「資料連線」 | 加入連線...
+
+
+06.	如果出現選擇資料來源對話盒，選擇 Microsoft SQL Server，繼續
+
+
+07.	伺服器名稱那欄，輸入: 「(localdb)\MSSQLLocalDB」
+
+
+08.	選擇或輸入資料庫名稱，輸入: 「LabDB」，確定
+
+
+09.	滑鼠右鍵剛建立的連線 | 新的查詢視窗
+
+
+10.	貼入下列內容:
+
+CREATE TABLE LabTable
+(
+  id int NOT NULL PRIMARY KEY,
+  data varchar(20)
+)
+GO
+
+insert into LabTable values (1, 'data a')
+insert into LabTable values (2, 'data b')
+insert into LabTable values (3, 'data c')
+Go
+
+CREATE USER [Users] FOR LOGIN [BUILTIN\Users]
+ALTER ROLE [db_datareader] ADD MEMBER [Users]
+ALTER ROLE [db_datawriter] ADD MEMBER [Users]
+GO
+
+// select * from LabTable
+
+11.	功能表 SQL | 執行
+
+
+12.	檔案 | 開啟專案，選擇 oDataLab 資料夾裏頭的 oDataLab.sln
+
+
+13.	開啟 Web.config，視需要修改連線字串的內容，搜尋:
+	data source=(local)
+	換成
+	data source=(localdb)\MSSQLLocalDB
+
+
+14.	按下組合鍵 Ctrl + F5，啟動但不偵錯。
+
+
+15.	試用下列 oData 語法並且以 Fiddler 觀察 HTTP 活動
+
+http://localhost:49613/odata/LabTables
+http://localhost:49613/odata/LabTables(1)
+
+
+16. 	利用 Fiddler 送出 POST HTTP 指令告知 oData 新增一筆資料
+
+16.1	切換到 Fiddler 的 Composer 頁籤
+
+16.2	下拉式選項選 POST
+
+16.3	網址: http://localhost:49613/odata/LabTables
+
+16.4	標頭區: Content-Type: application/json
+
+16.5	Request Body: {"id": 5, "data": "data e"}
+
+16.5	點按「Execute」
+
+16.6	利用 http://localhost:49613/odata/LabTables 觀察資料是否已成功新增到資料庫。
+
+
+
+(Optional)
+17.	參考 Client 資料夾的和範例，
+	以 jQuery 寫作 Client 端程式列出資料、新增資料。
+
