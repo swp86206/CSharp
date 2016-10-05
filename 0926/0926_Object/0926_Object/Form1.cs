@@ -41,16 +41,22 @@ namespace _0926_Object
             //obj.MakeNoise();  //狗叫
             CAnimal obj = new CDog();
             obj.MakeNoise(); //動物叫 , 父階加上virtual ,子階加上override ,變狗叫 
-            //this.Text=obj. //只可以看到public
-
-            /**********************/
+                             //this.Text=obj. //只可以看到public
 
 
+
+            /*********************
+
+            CDog objDog = new CDog(); //objDog 指向 CDog() 記憶體
+            PlayWith(objDog); //obj=objDog   //objDog 指向記憶體,obj 就指向該記憶體 ,兩個記載著同樣的數字,數字是記憶體編號
+            void PlayWith(CAnimal obj){ }
+
+            **************************/
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            CAnimal obj = new CAnimal(); //會自己選擇使用哪一版本 (); -->1000  (5); --> 5  //()內有設定值
+            CAnimal obj = new CAnimal(); //會自己選擇使用哪一版本 (); -->1000  或  (5); --> 5  //()內有設定值
             button3.Text = obj.Weight.ToString();
         }
 
@@ -225,7 +231,7 @@ namespace _0926_Object
     }
     // -----------  end of CAnimal ----------
 
-    class CDog : CAnimal //繼承父階的屬性
+    class CDog : CAnimal //繼承父階的屬性  ,冒號後面是繼承
     {
         /*************** Q: 如何使子階呼叫父階******************/
         public CDog() { }
@@ -241,7 +247,7 @@ namespace _0926_Object
 
         public override void MakeNoise() //父階私有的,子階還是拿不到  (override)改寫父階
         {
-            base.MakeNoise(); //呼叫父階
+            base.MakeNoise(); //呼叫父階的方法
             MessageBox.Show("Dog Bark !");
             this.MakeNoise();
             //this. //可以看到 public,protect
