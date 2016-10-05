@@ -19,7 +19,7 @@ namespace _0926_Object
 
         private void button1_Click(object sender, EventArgs e)
         {
-            CAnimal obj = new CAnimal();//obj是個記憶體準備指向 --> ,後面這個空間
+            CAnimal obj = new CAnimal();// new CAnimal() 這個空間 obj是個記憶體準備指向 --> ,後面這個空間
                                         //obj.MakeNoise();
 
             //obj.Weight = 10;
@@ -139,7 +139,7 @@ namespace _0926_Object
         }
     }
     //----------- end of Form1  -------------
-
+    
     class CAnimal //動物出來要解釋其功能
     {
 
@@ -159,16 +159,16 @@ namespace _0926_Object
         // public int _Weight;
         //為使變數更正確,使用先藏起來再檢查的方式
 
-        /*  public int Weight { set; get; } //簡單用法   */
+        /*  public int Weight { set; get; } //簡單用法   */  
 
         /******  {set; get; 的應用}  ******/
         private int _Weight; //private 只有此類別可以使用,做檢查的動作
         public int Weight //上面呼叫還是使用public的這個Weight
         {
-            set
+            set // button1 的Weight值傳到這,即下面value 的值
             {
                 if (value >= 0)
-                    _Weight = value;
+                    _Weight = value; //經上述if 判斷後,設定出 _Weight 的值
                 else
                 {
                     Exception ex = new Exception("Weight too low"); //記錄錯誤發生,代表某種狀況的紀錄
@@ -177,21 +177,24 @@ namespace _0926_Object
             }
             get
             {
-                return _Weight;
+                return _Weight; //傳回 _Weight值
             }
         }
 
 
 
-
+        /************變數會有負值問題***********/
         /****************
+          private int _Weight; //設一變數,藏起來
+          
+            //透過一組方法間接取用 
          
         public int GetWeight()
         {
-            return this._Weight;
+            return this._Weight;   //把資料讀出去
         }
 
-        public void SetWeight(int value)
+        public void SetWeight(int value) //修改資料,呼叫此方法
         {
             if (value > 0)
             {
@@ -221,6 +224,7 @@ namespace _0926_Object
        
     }
     // -----------  end of CAnimal ----------
+
     class CDog : CAnimal //繼承父階的屬性
     {
         /*************** Q: 如何使子階呼叫父階******************/
