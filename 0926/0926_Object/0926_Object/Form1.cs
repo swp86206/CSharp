@@ -177,8 +177,8 @@ namespace _0926_Object
                     _Weight = value; //經上述if 判斷後,設定出 _Weight 的值
                 else
                 {
-                    Exception ex = new Exception("Weight too low"); //記錄錯誤發生,代表某種狀況的紀錄
-                    throw ex;
+                    Exception ex = new Exception("Weight too low"); //記錄錯誤發生,代表某種狀況的紀錄 Exception是一個類別,用來記錄錯誤發生的相關資訊
+                    throw ex; // Exception 代表某一種狀況的紀錄,throw 是把此記錄公諸於世,讓大家來面對
                 }
             }
             get
@@ -234,10 +234,10 @@ namespace _0926_Object
     class CDog : CAnimal //繼承父階的屬性  ,冒號後面是繼承
     {
         /*************** Q: 如何使子階呼叫父階******************/
-        public CDog() { }
+        public CDog() { }  //無參數版本
         
         
-        public CDog(int WeightValue,int PriceValue):base(WeightValue)
+        public CDog(int WeightValue,int PriceValue):base(WeightValue) //有參數版本
             { this.Price = PriceValue; }
 
 
