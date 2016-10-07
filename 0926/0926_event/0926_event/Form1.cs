@@ -36,9 +36,15 @@ namespace _0926_event
               Button btn = (Button)sender; //指定型別轉換方法      
           //  Button btn = sender as Button; // 用as 將其視為Button
 
-               if (sender is Button)  //未完....
+               if (sender is Button)  
+                btn = sender as Button;
 
                 btn.Text = DateTime.Now.ToString();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using test0926_DLL.TimeSpace;
+using test0926_DLL.TimeSpace; //事先宣告
 
 namespace test0926_EXE
 {

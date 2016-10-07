@@ -77,33 +77,33 @@ namespace _0926_Object
 
         private void button5_Click(object sender, EventArgs e)
         {
-            for (int i=1; 1<=9; i++)
-            {
-                //try
-                //{
-                    test(i);
-               // }
-                //catch { }
-            }
+
+            for (int i = 1; 1 <= 9; i++) { test(i); }
+
+            //for (int i=1; 1<=9; i++)
+            //{
+            //    try { test(i); }
+            //    catch { }
+            //}
         }
 
         //try{}
         //catch{}
-
+        /***********副程式包try catch*************/
         void test(int value)
         {
-            //try
-           // {
-               // if (value == 4)
-              //  {
-                    //throw new Exception("Error!!!");
-              //  }
+            try
+            {
+                if (value == 4)
+               {
+                    throw new Exception("Error!!!");
+                }
                 listBox1.Items.Add(value);
-            //}
-            //catch(Exception ex)
-           // {
-                //listBox1.Items.Add(ex.Message);
-            //}
+            }
+            catch(Exception ex)
+           {
+               listBox1.Items.Add(ex.Message);
+           }
        }
            
         private void button6_Click(object sender, EventArgs e)
@@ -141,7 +141,17 @@ namespace _0926_Object
 
         private void button8_Click(object sender, EventArgs e)
         {
+            CAnimal obj = new CAnimal();
 
+            // C1: Assign Event Hander
+            obj.OnWeightError += Obj_OnWeightError;
+
+            obj.Weight = -1;
+        }
+        // C2: Write Event Handler
+        private void Obj_OnWeightError(object sender, EventArgs e)
+        {
+            MessageBox.Show("Weight too low");
         }
     }
     //----------- end of Form1  -------------
@@ -155,6 +165,33 @@ namespace _0926_Object
         public CAnimal(int WeightValue) { this.Weight = WeightValue; }
 
 
+        // S1: declare event 事件聲明
+        public event EventHandler OnWeightError;
+
+        private int _Weight;
+        public int Weight
+        {
+            set
+            {
+                if (value >= 0)
+                    _Weight = value;
+                else
+                {
+                    // Exception ex = new Exception("Weigth too low");
+                    // throw ex;
+
+                    // S2: invoke event hander
+                    if (this.OnWeightError != null)
+                    {
+                        this.OnWeightError(this, new EventArgs());
+                    }
+                }
+            }
+            get
+            {
+                return _Weight;
+            }
+        }
 
 
 
@@ -165,7 +202,8 @@ namespace _0926_Object
         // public int _Weight;
         //為使變數更正確,使用先藏起來再檢查的方式
 
-        /*  public int Weight { set; get; } //簡單用法   */  
+        /*  public int Weight { set; get; } //簡單用法   */
+
 
         /******  {set; get; 的應用}  ******/
         private int _Weight; //private 只有此類別可以使用,做檢查的動作
@@ -233,12 +271,12 @@ namespace _0926_Object
 
     class CDog : CAnimal //繼承父階的屬性  ,冒號後面是繼承
     {
-        /*************** Q: 如何使子階呼叫父階******************/
+        /*************** Q: 如何使子階呼叫父階********用base呼叫**********/
         public CDog() { }  //無參數版本
         
         
-        public CDog(int WeightValue,int PriceValue):base(WeightValue) //有參數版本
-            { this.Price = PriceValue; }
+        public CDog(int WeightValue,int PriceValue):base(WeightValue) //有參數版本  //子類別透過:base來設定父階的物件
+        { this.Price = PriceValue; }
 
 
         public int Price { set; get; }
